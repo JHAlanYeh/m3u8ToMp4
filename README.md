@@ -1,7 +1,7 @@
 # m3u8ToMp4
 
 ## 環境設定 
-- 還原Package.json : yarn install / npm install
+- 還原package.json : yarn install / npm install
 - 安裝ffmpeg(教學 https://annkuoq.github.io/blog/2019-12-17-install-ffmpeg/) 
 
 ## 專案啟動
