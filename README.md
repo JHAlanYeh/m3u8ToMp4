@@ -10,7 +10,5 @@
 - 輸入欲輸出檔案名稱(含.mp4)
 
 ## 打包
-- pkg -t win convertVideo.js  (For Windows環境)
-- pkg entrance.js (For 全平台環境 Windows/MasOS/Linux)
-
-
+- pkg -t win convertVideo.js (For Windows環境)
+- pkg convertVideo.js (For 全平台環境 Windows/MasOS/Linux)
